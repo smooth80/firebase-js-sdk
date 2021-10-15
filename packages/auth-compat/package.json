@@ -35,7 +35,7 @@
     "@firebase/auth-types": "0.11.0",
     "@firebase/component": "0.5.7",
     "@firebase/util": "1.4.0",
-    "node-fetch": "2.6.5",
+    "node-fetch": "3.0.0",
     "selenium-webdriver": "^4.0.0-beta.2",
     "tslib": "^2.1.0"
   },
